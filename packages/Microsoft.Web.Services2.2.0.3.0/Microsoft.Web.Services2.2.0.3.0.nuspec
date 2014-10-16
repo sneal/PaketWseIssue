@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Web.Services2</id>
+    <version>2.0.3.0</version>
+    <title>WSE 2.0</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>http://msdn.microsoft.com/en-us/library/aa894200.aspx</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Web Services Enhancements 2.0 for Microsoft .NET (WSE) is a .NET class library for building Web services using the latest Web services protocols, including WS-Security, WS-SecureConversation, WS-Trust, WS-Policy, WS-SecurityPolicy, WS-Addressing, and WS-Attachments. WSE allows you to add these capabilities at design time using code or at deployment time through the use of a policy file.
+downloaded from url: http://www.microsoft.com/download/en/details.aspx?id=23689</description>
+    <summary>Microsoft WSE 2.0 SP3
+Web Services Enhancements 2.0 for Microsoft .NET (WSE) is a .NET class library for building Web services using the latest Web services protocol</summary>
+    <releaseNotes />
+    <tags>wse webservices</tags>
+  </metadata>
+</package>

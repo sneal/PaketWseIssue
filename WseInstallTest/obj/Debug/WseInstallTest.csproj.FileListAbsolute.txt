@@ -1,0 +1,7 @@
+c:\src\WseInstallTest\WseInstallTest\bin\Debug\WseInstallTest.exe.config
+c:\src\WseInstallTest\WseInstallTest\bin\Debug\WseInstallTest.exe
+c:\src\WseInstallTest\WseInstallTest\bin\Debug\WseInstallTest.pdb
+c:\src\WseInstallTest\WseInstallTest\bin\Debug\Microsoft.Web.Services2.dll
+c:\src\WseInstallTest\WseInstallTest\obj\Debug\WseInstallTest.csprojResolveAssemblyReference.cache
+c:\src\WseInstallTest\WseInstallTest\obj\Debug\WseInstallTest.exe
+c:\src\WseInstallTest\WseInstallTest\obj\Debug\WseInstallTest.pdb
